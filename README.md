@@ -1,5 +1,5 @@
 # Criando um Mini Portfólio usando o Bootstrap
-- Desenvolvi um Mini portfólio usando Bootstrap, CSS e HTML.
+- Desenvolvi um Mini portfólio usando Bootstrap, CSS, HTML e JavaScript.
 - <a href="https://fernandamakihirose.github.io/bootstrap-portfolio/">Clique aqui para abrir o Mini Portfólio.</a>  
 
 ## Sobre a Autora
